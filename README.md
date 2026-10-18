@@ -6,9 +6,9 @@ Displays a hacker-themed webpage
 Uses custom CSS styling for layout and appearance
 Organizes webpage content using HTML
 Provides a simple frontend web design experience
+
 Technologies Used
 HTML5 — semantic structure and webpage layout
-
 CSS3 — styling, layout, colors, and visual presentation
 
 What I learned
